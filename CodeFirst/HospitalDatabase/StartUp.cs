@@ -1,12 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using P01_HospitalDatabase.Data;
-using P01_HospitalDatabase.PropsToSet;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Reflection;
-using System.Text;
+﻿using P01_HospitalDatabase.Data;
 
 namespace P01_HospitalDatabase
 {
